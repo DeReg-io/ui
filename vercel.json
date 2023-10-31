@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/easy-trigger?keepWarmKey=b7p_ygAf6xTWyDbc%40dgoB%40GhFUAWBg",
+      "schedule": "*/14 * * * *"
+    }
+  ]
+}
